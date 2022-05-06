@@ -1,2 +1,4 @@
 # zaverecky_hra
-hra
+- unity hra  
+- boring hra; awful code:DDD  
+- enjoy ig  
